@@ -38,7 +38,7 @@ We value your feedback and are here to assist you with any issues or questions y
 
 ## Contributing
 
-We welcome contributions to the Auto Filter Bot. If you have any improvements or new features to propose, please open an issue or submit a pull request on our GitHub repository [https://github.com/MRCHEKUTHAN/Project-Auto].
+We welcome contributions to the Auto Filter Bot. If you have any improvements or new features to propose, please open an issue or submit a pull request on our GitHub repository [HERE](https://github.com/MRCHEKUTHAN/Project-Auto).
 
 ## License
 
