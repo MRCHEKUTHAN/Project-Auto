@@ -34,15 +34,15 @@ The Auto Filter Bot is a Telegram bot that automatically filters and categorizes
 
 ## Feedback and Support
 
-We value your feedback and are here to assist you with any issues or questions you may have. To provide feedback or seek support, please contact us at [your_contact_email@example.com].
+We value your feedback and are here to assist you with any issues or questions you may have. To provide feedback or seek support, please contact us at [Email At](howareyou12000000@gmail.com).
 
 ## Contributing
 
-We welcome contributions to the Auto Filter Bot. If you have any improvements or new features to propose, please open an issue or submit a pull request on our GitHub repository [link_to_github_repository].
+We welcome contributions to the Auto Filter Bot. If you have any improvements or new features to propose, please open an issue or submit a pull request on our GitHub repository [https://github.com/MRCHEKUTHAN/Project-Auto].
 
 ## License
 
-The Auto Filter Bot is licensed under the [MIT License](link_to_license_file). Feel free to use and modify the bot as per the terms of the license.
+The Auto Filter Bot is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/MRCHEKUTHAN/Project-Auto/blob/main/LICENSE). Feel free to use and modify the bot as per the terms of the license.
 
 ## Acknowledgments
 
@@ -50,4 +50,3 @@ We would like to thank the Telegram development community for their invaluable r
 
 ---
 
-[Optional]: Add any additional information, screenshots, or instructions here.
