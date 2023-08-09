@@ -1,6 +1,7 @@
-# Auto Filter Bot
+## Auto Filter Bot
 
-![Auto Filter Bot Banner](path_to_banner_image)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PROJECT+AUTO+FILTER+BOT+😜)
+
 
 The Auto Filter Bot is a Telegram bot that automatically filters and categorizes messages in your group or channel, making it easier to manage and organize conversations. This bot uses advanced algorithms to detect and sort messages based on predefined criteria, ensuring a seamless and efficient user experience.
 
