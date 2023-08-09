@@ -35,7 +35,7 @@ The Auto Filter Bot is a Telegram bot that automatically filters and categorizes
 
 ## Feedback and Support
 
-We value your feedback and are here to assist you with any issues or questions you may have. To provide feedback or seek support, please contact us at [Email At](howareyou12000000@gmail.com).
+We value your feedback and are here to assist you with any issues or questions you may have. To provide feedback or seek support, please contact us at [EMAIL](@howareyou12000000@gmail.com).
 
 ## Contributing
 
